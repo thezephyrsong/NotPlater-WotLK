@@ -17,8 +17,8 @@ NotPlater brings Plater-inspired, threat-aware nameplates to TBC (2.4.3) and Wra
 - Supports all shipped localizations so you can configure in your preferred language.
 
 ## Installation
-- 2.4.3: Rename the downloaded folder to `NotPlater-2.4.3` and place it in `..\Interface\AddOns\NotPlater-2.4.3`.
-- 3.3.5: Rename the downloaded folder to `NotPlater-3.3.5` and place it in `..\Interface\AddOns\NotPlater-3.3.5`.
+- 2.4.3: Rename the downloaded folder to `NotPlater-TBC` and place it in `..\Interface\AddOns\NotPlater-TBC`.
+- 3.3.5: Rename the downloaded folder to `NotPlater-WotLK` and place it in `..\Interface\AddOns\NotPlater-WotLK`.
 
 If you find any bugs feel free to message me (richsteini on Discord) or report an issue.
 
